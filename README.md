@@ -1,5 +1,5 @@
 # SeciossOTP
-SeciossOTP (Secioss One-Time Password)は、以下の機能を提供するオープンソースのCASBソフトウェアです。
+SeciossOTP (Secioss One-Time Password)は、以下の機能を提供するオープンソースのソフトウェアです。
 * ユーザーワンタイムパスワードの設定
 * ユーザーワンタイムパスワードの認証
 
